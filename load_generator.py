@@ -2,7 +2,7 @@ import requests
 import concurrent.futures
 import time
 
-# Update TARGET_URL with your GCP load balancer's IP/domain or a specific instance's external IP.
+# Update TARGET_URL with the specific VM instance's external IP.
 TARGET_URL = 'http://34.134.77.179:8080/simulate_load'
 
 def send_request():
