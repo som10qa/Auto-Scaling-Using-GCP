@@ -17,6 +17,5 @@ This project demonstrates a simple autoscaling setup using a web server that sim
 
 2. **Run Load Generation Script:**
 
-
    ```bash
  python3 load_generator.py
