@@ -15,3 +15,4 @@ This project demonstrates a simple autoscaling setup using a web server that sim
 
    ```bash
    pip install -r requirements.txt
+   python3 load_generator.py
